@@ -9,12 +9,12 @@ In simple words, paraphrase is just an alternative representation of the same me
 Dataset(Arxiv6K) for Projects #1 and #2:
 About: 6000+ Arxiv papers from CS category at 2020. 
 
-Dataset URL: https://pan.baidu.com/s/1DsLVmZno7JSWxNQ9CBbBJQ
+Dataset URL: https://pan.baidu.com/s/1DsLVmZno7JSWxNQ9CBbBJQ  
 Dataset size: ~20G(compressed).
 
 ## NLP Projects #3 智能创造平台
-2022中国软件杯大赛--A组赛题 A9
-http://www.cnsoftbei.com/plus/view.php?aid=729
+2022中国软件杯大赛--A组赛题 A9  
+http://www.cnsoftbei.com/plus/view.php?aid=729  
 https://github.com/Guo622/SoftwareCup_A9_2022
 
 ## NLP Projects #4 考研神器
