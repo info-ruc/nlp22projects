@@ -6,9 +6,7 @@ This is an exciting NLP project that you can add to your resume for you would ha
 ## NLP Projects #2 Paraphrase-Identification-Task
 In simple words, paraphrase is just an alternative representation of the same meaning. Paraphrase detection is the task of examining two text entities (ex. sentence or paragraph) and determining whether they have the same meaning. Or given one text entity, try to find the most similar text entities in meaning. In order to obtain high accuracy on this task, thorough syntactic and semantic analysis of the two text entities is required. 
 
-Dataset(Arxiv6K) for Projects #1 and #2:
-About: 6000+ Arxiv papers from CS category at 2020. 
-
+Dataset(Arxiv6K) for Projects #1 and #2: 6000+ Arxiv papers from CS category at 2020.  
 Dataset URL: https://pan.baidu.com/s/1DsLVmZno7JSWxNQ9CBbBJQ  
 Dataset size: ~20G(compressed).
 
