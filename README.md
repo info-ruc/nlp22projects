@@ -18,7 +18,7 @@ student_id（folder）
 ```
  
 # Pick a task
-TBA
+[Tasks](./task.md)
 
 # Submit your project
 [How to](./Submission-Howto.md)
